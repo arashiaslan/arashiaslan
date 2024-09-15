@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 🔭 Currently working on My Sweet Home<br>🌱 Stay learning and curious everyday<br>💬 Ask me about all i dont know, i'll search it<br>⚡ Fun fact that Im a Kill
 
 
