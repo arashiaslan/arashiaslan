@@ -10,7 +10,7 @@ Basic-Front End, Javascript, PHP Laravel.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arashiaslan.github.io/)
+[![portfolio](https://img.shields.io/badge/portfolio-navy?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arashiaslan.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadaqilmj/)
 [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@im.aqilmj)
 
