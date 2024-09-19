@@ -14,5 +14,5 @@ Basic-Front End, Javascript, PHP Laravel.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadaqilmj/)
 [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@im.aqilmj)
 [![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vnochlea/)
-[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/why.aslam/)
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/why.aslam/)
 
