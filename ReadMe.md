@@ -6,7 +6,7 @@ Let's collaborate on exciting open-source projects or simply connect to share id
 
 
 ## 🛠 Skills
-Basic-Front End, Javascript, PHP Laravel.
+Front End, PHP Laravel, Flutter.
 
 
 ## 🔗 Links
