@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-👋 Hi there! I'm Imad Aqil, a passionate young Programmer. When I'm not coding, you can find me working on my drawings or reading book. Oh, you can watch my content on YouTube, just doing random stuff eheh.
+👋 Hey there! I’m Imad Aqil, a young programmer with a passion for coding. When I’m not at my machine, you’ll probably find me sketching or lost in a good book. Oh, and check out my YouTube channel for some fun, random content!.
 
 Let's collaborate on exciting open-source projects or simply connect to share ideas!
 
