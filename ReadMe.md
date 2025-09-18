@@ -22,7 +22,7 @@ When I’m not at my machine, you’ll probably find me sketching or lost in a g
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arashiaslan&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arashiaslan&theme=merko)
 
 
 
