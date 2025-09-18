@@ -22,6 +22,6 @@ When I’m not at my machine, you’ll probably find me sketching or lost in a g
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arashiaslan&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashiaslan)](https://github.com/anuraghazra/github-readme-stats)
 
