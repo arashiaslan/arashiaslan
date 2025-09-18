@@ -21,8 +21,8 @@ When I’m not at my machine, you’ll probably find me sketching or lost in a g
 
 ## 📊 GitHub Stats
 
-![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadaqilmj&show_icons=true&theme=radical)  
+![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arashiaslan&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imadaqilmj&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arashiaslan&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadaqilmj&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashiaslan&layout=compact&theme=radical)
