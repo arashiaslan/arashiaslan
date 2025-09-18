@@ -5,8 +5,8 @@
 Let's collaborate on exciting open-source projects or simply connect to share ideas!
 
 
-## 🛠 Skills
-HTML, CSS, Javascript, NodeJS, React, PHP, Laravel, Dart, Flutter.
+## 🛠 Tech-stack
+NodeJS, React, Laravel, Flutter, Go.
 
 
 ## 🔗 Links
