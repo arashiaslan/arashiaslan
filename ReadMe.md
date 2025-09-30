@@ -3,7 +3,7 @@
 🚀 A young programmer with a passion for coding.  
 When I’m not at my machine, you’ll probably find me sketching or lost in a good book.  
 
-🎥 Also, check out my [YouTube channel](https://www.youtube.com/@imaqil.mj) for some fun, random content!  
+🎥 Also, check out my [YouTube channel](https://www.youtube.com/@imaqilmj) for some fun, random content!  
 
 💡 Let's collaborate on exciting open-source projects or simply connect to share ideas!  
 
@@ -17,6 +17,6 @@ When I’m not at my machine, you’ll probably find me sketching or lost in a g
 
 ## 🔗 Links  
 
-[![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolioaeshoku.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadaqilmj/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imaqil.mj)  [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imaqilmj/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/why.aslam/)  
+[![portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolioaeshoku.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadaqilmj/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@imaqilmj)  [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imaqilmj/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/why.aslam/)  
 
 ---
